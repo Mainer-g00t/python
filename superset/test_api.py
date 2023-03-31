@@ -7,3 +7,5 @@ client = SupersetClient(
     username="admin",
     password="admin",
 )
+
+print("test")
